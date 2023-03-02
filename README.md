@@ -1,16 +1,2 @@
-# tic_tak_toe
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+screenshots..
+![Photo Collage Maker_2023_03_02_05_08_19](https://user-images.githubusercontent.com/99496645/222441726-68aa549b-4ffe-4ec2-9ea3-5c9470676cc8.png)
